@@ -30,7 +30,7 @@ When trying to connect remotely to your Heroku database on an open network such 
 
 ## Instructions
 
-#### App Setup
+<!-- #### App Setup
 
 1. Create a GitHub repo called `burger` and clone it to your computer.
 
@@ -45,7 +45,7 @@ When trying to connect remotely to your Heroku database on an open network such 
 6. Install MySQL npm package: `npm install mysql`.
 
 7. Require the following npm packages inside of the server.js file:
-   * express
+   * express -->
 
 #### DB Setup
 
